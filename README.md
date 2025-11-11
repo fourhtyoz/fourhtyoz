@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]
+# 👋 Hi, I’m Boris
 
 I’m a **Full-Stack Developer** with over **6 years of experience** building: web / mobile apps.  
 I specialize in **Python**, **Node.js**, **Go**, and **React**, and enjoy working across the full stack — from backend architecture and APIs to interactive frontend interfaces.
