@@ -11,10 +11,10 @@ I specialize in **Python / Django / FastAPI**, **Javascript / Typescript / Expre
 Python · JavaScript (Node.js, TypeScript) · Go  
 
 **Frameworks & Tools:**  
-FastAPI · Django · Express · Nest.js · React · Next.js 
+FastAPI · Django · Express · Next.js · Nest.js · React · React Native
 
 **Databases & Messaging:**  
-PostgreSQL · Redis · Kafka · RabbitMQ · MongoDB
+PostgreSQL · MongoDB · Firebase · Redis · Kafka
 
 **DevOps & Cloud:**  
 Docker · Kubernetes · GitHub Actions · CI/CD  
@@ -22,8 +22,9 @@ Docker · Kubernetes · GitHub Actions · CI/CD
 ---
 
 ### 🚀 What I’m Working On
-- Building microservice-based architectures with Go
-- Creating high quality UIs with React  
+- Building microservice-based architectures with Python, Node and Go
+- Creating high quality UIs with React
+- Developing fun games with React Native
 - Exploring distributed systems and real-time data streaming  
 - Improving developer experience with automation and modular frontends  
 
